@@ -1,0 +1,8 @@
+# .gitignore
+#
+# Ignore build files
+build
+
+# Ignore vscode
+.vscode
+.vs
